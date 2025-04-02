@@ -31,12 +31,12 @@ A modern, responsive web application for tracking and analyzing stock market dat
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/stock-market-website.git
+git clone https://github.com/kalpanatiwari
 ```
 
 2. Navigate to the project directory:
 ```bash
-cd stock-market-website
+cd MS
 ```
 
 3. Install dependencies:
